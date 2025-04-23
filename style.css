@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #000;
+  padding: 20px;
+  text-align: center;
+}
+main {
+  padding: 20px;
+}
+.livros h2 {
+  margin-bottom: 10px;
+}
+.livros ul {
+  list-style: none;
+  padding: 0;
+}
+.livros li {
+  margin-bottom: 8px;
+}
+a {
+  color: #1e90ff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+footer {
+  background-color: #000;
+  text-align: center;
+  padding: 10px;
+}
